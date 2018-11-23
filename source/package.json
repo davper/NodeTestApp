@@ -1,0 +1,20 @@
+{
+  "name": "daptestapp",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "dap",
+  "license": "ISC",
+  "dependencies": {
+    "body-parser": "^1.18.3",
+    "dotenv": "^6.1.0",
+    "express": "^4.16.4",
+    "mongoose": "^5.3.12"
+  },
+  "devDependencies": {
+    "@octopusdeploy/octopackjs": "^0.1.0"
+  }
+}
